@@ -7,6 +7,7 @@
 ### :wrench:&nbsp;주요 기능
  * Slider UI/UX
  * MouseEvent : Click under limited conditions
+ * dummy database
 
 ### :calling:&nbsp;&nbsp;Contact me!
 poetdeveloper.iro@gmail.com OR bkksg.studio@gmail.com
